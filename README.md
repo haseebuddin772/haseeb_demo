@@ -1,2 +1,2 @@
-# haseeb_demo
+# fsa_demo
 Demo repo for full stack session
